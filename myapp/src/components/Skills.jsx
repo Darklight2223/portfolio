@@ -13,17 +13,17 @@ import nodejsImage from "../assets/images/skills/NodeJs.svg";
 import expressImage from "../assets/images/skills/Express.png";
 import reduxImage from "../assets/images/skills/Redux.svg";
 import tailwindImage from "../assets/images/skills/Tailwind.png";
-import pytorchImage from "../assets/images/skills/Pytorch.png";
+import pytorchImage from "../assets/images/skills/pytorch.png";
 
 // Database
 import mongodbImage from "../assets/images/skills/MongoDB.svg";
 import postgresImage from "../assets/images/skills/PostgreSQL.png"; // New
 import sqlImage from "../assets/images/skills/SQL.svg"; // New
-import superbaseImage from "../assets/images/skills/Supabase.png"; // New
+import superbaseImage from "../assets/images/skills/supabase.png"; // New
 
 // DevOps & Deployment
 import dockerImage from "../assets/images/skills/Docker.svg"; // New (Very important for you)
-import redisImage from "../assets/images/skills/Redis.svg"; // New (Very important for you)
+import redisImage from "../assets/images/skills/redis.svg"; // New (Very important for you)
 import gcpImage from "../assets/images/skills/gcp.svg"; // New (Very important for you)
 // import renderImage from "../assets/images/skills/Render.svg"; // New
 import gitImage from "../assets/images/skills/Git.svg";
