@@ -8,7 +8,7 @@ import javascriptImage from "../assets/images/skills/Javascript.svg";
 // Frameworks & Libraries
 import reactImage from "../assets/images/skills/React.png";
 import nextjsImage from "../assets/images/skills/NextJsCircle.png"; // New (Important!)
-import fastapiImage from "../assets/images/skills/FastAPI.png"; // New (Important!)
+import fastapiImage from "../assets/images/skills/fastapi.png"; // New (Important!)
 import nodejsImage from "../assets/images/skills/NodeJs.svg";
 import expressImage from "../assets/images/skills/Express.png";
 import reduxImage from "../assets/images/skills/Redux.svg";
